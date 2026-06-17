@@ -4,13 +4,11 @@
 
 # Hi there, I'm Laura Mumbe Maithya 👋
 
-I am a final year student at Strathmore University passionate about 
+Final year Computer Science student at Strathmore University with hands-on experience in web development, IoT systems and data driven dashboards. Experienced in building real world solutions using sensors, embedded systems and modern web technologies. Combines technical ability with leadership experience having led teams and activities. Passionate about the Internet of Things, data analysis and developing impactful systems for community use.
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
-
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** An IoT based Platfrom that Displays Real Time data, monitoring and prediction of floods by use of IoT sensors and machine learning
+- 🌱 **Learning & Exploration:** I am diving more into Industrial Internet of Things and python language and frameworks.
+- ⚡ **Core Interests:** Data Science, Internet of Things (IoT) and Machibe Learning.
 
 ---
 
