@@ -30,8 +30,8 @@ Final year Computer Science student at Strathmore University with hands-on exper
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMaithya&layout=compact&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraMaithya&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LauraMaithya&theme=tokyonight&hide_border=true" />
 </p>
 </p>
 
