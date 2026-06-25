@@ -26,7 +26,7 @@ Final year Computer Science student at Strathmore University with hands-on exper
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraMaithya&show_icons=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/LauraMaithya?template=classic&base=header%2C+activity%2C+community%2C+repositories&base.indepth=true&config.timezone=Africa%2FNairobi" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMaithya&layout=compact&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
